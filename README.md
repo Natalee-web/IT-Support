@@ -64,9 +64,7 @@ Below are the documented steps taken during the process.
 ### Applying the Fix
 ![figure3_troubleshooting_step2](figure3_troubleshooting_step2.png)  
 ![figure4_troubleshooting_step3](figure4_troubleshooting_step3.png)  
-![figure5_troubleshooting_step4](figure5_troubleshooting_step4.png)  
-![figure6_troubleshooting_step5](figure6_troubleshooting_step5.png)  
-![figure7_troubleshooting_step6](figure7_troubleshooting_step6.png)  
+![figure5_troubleshooting_step4](figure5_troubleshooting_step4.png)    
 *Using Windows Network Diagnostics to restore wireless connectivity.*
 
 ### Successful Resolution
